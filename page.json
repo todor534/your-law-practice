@@ -1,0 +1,137 @@
+{
+  "brand": {
+    "name": "Your Law Practice",
+    "accent": "#1a237e"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Expert Legal Services for Your Peace of Mind",
+      "subheadline": "Professional, reliable, and personalized legal solutions for individuals and businesses. Get the legal support you need—when you need it.",
+      "primaryCta": {
+        "label": "Request a Consultation",
+        "href": "/contact"
+      },
+      "image": {
+        "kind": "icon",
+        "name": "scales-of-justice",
+        "url": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Personalized Legal Consultation",
+          "desc": "Receive tailored legal advice specific to your needs, ensuring clarity and confidence in every step."
+        },
+        {
+          "title": "Flexible Appointment Scheduling",
+          "desc": "Book consultations at your convenience with easy online scheduling and quick response times."
+        },
+        {
+          "title": "Transparent Pricing",
+          "desc": "Know exactly what you’ll pay with clear, upfront pricing for all services—no hidden fees."
+        },
+        {
+          "title": "Wide Range of Legal Services",
+          "desc": "Get support for contracts, disputes, business formation, and more, all in one place."
+        },
+        {
+          "title": "Confidential & Secure Communication",
+          "desc": "Your privacy is protected with secure channels for all client communications and document sharing."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah M.",
+          "quote": "Working with this lawyer was seamless and professional. My case was handled efficiently and I felt supported every step of the way."
+        },
+        {
+          "name": "James T.",
+          "quote": "Clear communication and expert advice. I highly recommend these legal services for anyone needing reliable counsel."
+        },
+        {
+          "name": "Emily R.",
+          "quote": "Fast response times and thorough explanations. I felt confident knowing my legal matters were in good hands."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Consultation",
+          "price": "$99",
+          "period": "per session",
+          "features": [
+            "30-minute legal consultation",
+            "Personalized advice",
+            "No commitment required"
+          ]
+        },
+        {
+          "name": "Document Review",
+          "price": "$249",
+          "period": "per document",
+          "features": [
+            "Comprehensive review of legal documents",
+            "Written feedback and recommendations",
+            "Up to 2 revisions included"
+          ]
+        },
+        {
+          "name": "Full Representation",
+          "price": "$999",
+          "period": "per case",
+          "features": [
+            "End-to-end legal support",
+            "Case preparation and filing",
+            "Court representation",
+            "Ongoing updates and communication"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What legal services do you offer as a freelance lawyer?",
+          "a": "I provide a range of legal services including contract drafting, legal consultations, business formation, and document review for individuals and businesses."
+        },
+        {
+          "q": "How can I book a consultation with you?",
+          "a": "You can easily book a consultation through the contact form on my website or by emailing me directly. I offer flexible scheduling to accommodate your needs."
+        },
+        {
+          "q": "What are your fees for legal services?",
+          "a": "My fees vary depending on the type and complexity of the service. I offer transparent pricing and will provide a quote after an initial discussion of your needs."
+        },
+        {
+          "q": "Are your services available remotely?",
+          "a": "Yes, I offer remote legal services and consultations via phone, email, or video call, making it convenient for clients regardless of location."
+        },
+        {
+          "q": "How do you ensure client confidentiality?",
+          "a": "Client confidentiality is a top priority. All communications and documents are handled securely and in accordance with professional legal standards."
+        }
+      ]
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Start Your Legal Journey With a Free Consultation",
+      "placeholder": "Enter your email to get started",
+      "button": "Request Consultation"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 Your Law Practice. All rights reserved. | Privacy Policy"
+    }
+  ]
+}
